@@ -1,0 +1,11 @@
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+BetterFileWatching = "c9fd44ac-77b5-486c-9482-9798bd063cc6"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DuckDB = "d2f5444f-75bc-4fdf-ac35-56f514c445e1"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+JSONTables = "b9914132-a727-11e9-1322-f18e41205b0b"
+Query = "1a8c2f83-1ff3-5112-b086-8aa67b057ba1"
+Rembus = "aa126574-2ec3-42c9-8bf5-7f62001d6bce"
